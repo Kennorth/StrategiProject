@@ -4,7 +4,6 @@
 Essa pasta está representada como o backend do Marvel Project, o backend está sendo hosteado no pythonanywhere, portanto essa pasta está apenas mostrando como os arquivos do projeto estão para a analise dos mesmos.
 
 
-
 ## Objetivo
 O projeto foi desenvolvido para o processo seletivo da Strategi Consultoria
 ## Tecnologias
@@ -20,10 +19,15 @@ O projeto foi dockerizado nos arquivos Dockerfile encontrados nas pastas /backen
 
 Tecnologias:
     FLASK, React, TS, SQLite
+
 ## HOSTS
 O backend foi hosteado no pythonanywhere
 
 O frontend foi hosteado no netlify
+
+## LINK DO PROJETO EM FUNCIONAMENTO
+
+https://heitorppaivamarvel.netlify.app/
 
 
 ## FEATURES
